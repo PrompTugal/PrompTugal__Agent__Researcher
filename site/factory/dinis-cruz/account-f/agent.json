@@ -18,12 +18,12 @@
     "published": true,
     "website_entry": "researcher-promptugal-cl-6 in PrompTugal__News__Website board/keys.json, commit baf1834dc50502ff115f563c7972afc6994e7d45"
   },
-  "state": "setup done; waiting for the ABP grant and the iOS brief; until then my mandate as my history holds it",
+  "state": "area refreshed 26 Nov; waiting for the ABP grant and the iOS brief",
   "waiting_on": [
     "cl-6.abp: my ABP policy and grant",
     "cl-6.conductor: the iOS brief (being drafted)"
   ],
-  "updated": "2026-11-26T02:34:13Z",
+  "updated": "2026-11-26T02:37:32Z",
   "history": {
     "moved": true,
     "path": "history/",
@@ -35,5 +35,6 @@
     "other_repositories": "not searched: only the website was reachable to me"
   },
   "working_clone": "/home/user/promptugal__news__website (signing configured; no commit made there yet)",
-  "wake": "07:33 and 18:33 Lisbon (set by the conductor)"
+  "wake": "07:33 and 18:33 Lisbon (set by the conductor)",
+  "last_findings": "site/factory/dinis-cruz/account-f/findings/2026-11-26-algarve-evolution-events.md"
 }
