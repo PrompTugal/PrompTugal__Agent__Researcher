@@ -18,13 +18,13 @@
     "published": true,
     "website_entry": "researcher-promptugal-cl-6 in PrompTugal__News__Website board/keys.json, commit baf1834dc50502ff115f563c7972afc6994e7d45"
   },
-  "state": "woke 18:33 UTC 26 Nov: Algarve survey and INOVA read at source; outlet contacts done; waiting on the abp grant widening (history/**, signing settings)",
+  "state": "outlet contacts and Algarve survey/INOVA done; nothing else open except Dinis's P5 on history/**",
   "waiting_on": [
     "cl-6.abp: my ABP policy and grant",
     "cl-6.conductor: the iOS brief (being drafted)",
-    "cl-6.abp / Dinis: add history/** and .git/config signing settings to my grant, or tell me to remove history/ (proposed relaxation; the start prompt told me to do both)"
+    "Dinis: P5 (history/** write path for every home). Until he decides I do not move, write, change or delete anything under history/ (cl-6.abp, 18:35 UTC 26 Nov). Signing settings in .git/config: abp asks no undo (R9 expects them); noted that the hook kit (P8) will need them made by the signed install or by me before it."
   ],
-  "updated": "2026-11-26T18:34:34Z",
+  "updated": "2026-11-26T18:36:02Z",
   "history": {
     "moved": true,
     "path": "history/",
