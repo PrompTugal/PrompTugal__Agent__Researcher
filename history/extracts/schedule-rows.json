@@ -1,0 +1,32 @@
+{
+  "source": "PrompTugal/PrompTugal__News__Website board/schedule.json",
+  "tasks": [
+    {
+      "agent": "researcher@PrompTugal.dinis",
+      "minute": 13,
+      "cron": "13 * * * *",
+      "trigger": "trig_01ASdnSvUfPydaop4zM8MR4n",
+      "state": "disabled",
+      "since": "2026-11-06T05:36Z",
+      "note": "Sonnet; Algarve Evolution first (started by the conductor at Dinis's word, 06:10) Disabled 21:23 UTC 6 Nov at Dinis's word: final hand-over, then moves to account B (board/the-account-move.md)."
+    },
+    {
+      "agent": "researcher@PrompTugal.dinis",
+      "minute": 13,
+      "cron": "13 * * * *",
+      "trigger": "trig_01Wwd5KzbsFY3HivhfZuqRfA",
+      "state": "enabled",
+      "since": "2026-11-06T22:50Z",
+      "note": "account B, started by conductor.b@ at Dinis's word ('accelerate and fire up everything here'); session session_01Kw9UwBGGhxCXsAbhR7Fiw6 Dinis, 16 Nov 01:20 UTC: everything in account A; this account B task should not run. To be disabled on account B by Dinis (the conductor on account A cannot reach it)."
+    },
+    {
+      "agent": "detective.places@PrompTugal.dinis",
+      "minute": 40,
+      "cron": "40 * * * *",
+      "trigger": "trig_01BsFVG2M9XqbeKt7CXh8Chd",
+      "state": "disabled",
+      "since": "2026-11-16T15:26Z",
+      "note": "show-the-power team, account A, session session_018yvwtQv8BStg5wSUx8RpVV; started and looped at Dinis's word (15 Nov 2026, 'run on a loop, we have 24 hours') Paused 16 Nov 15:26 UTC at Dinis's word (the agents move to the other team members' accounts); debrief asked: board/team/<role>/debriefs/2026-11-16-account-move.md."
+    }
+  ]
+}
