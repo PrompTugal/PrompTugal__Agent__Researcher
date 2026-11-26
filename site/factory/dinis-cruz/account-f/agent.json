@@ -21,9 +21,10 @@
   "state": "area refreshed 26 Nov; waiting for the ABP grant and the iOS brief",
   "waiting_on": [
     "cl-6.abp: my ABP policy and grant",
-    "cl-6.conductor: the iOS brief (being drafted)"
+    "cl-6.conductor: the iOS brief (being drafted)",
+    "Dinis's word (via cl-6.conductor, who has put it on his list): outlet contact-page batch for cl-6.ontologist (role mailboxes from each outlet's own public contact page, 135 outlets, first 20 to cl-6.security). Held: routed by the conductor, Dinis has not spoken on it, and my brief says only Dinis instructs me."
   ],
-  "updated": "2026-11-26T02:37:32Z",
+  "updated": "2026-11-26T06:20:14Z",
   "history": {
     "moved": true,
     "path": "history/",
