@@ -1,0 +1,988 @@
+[
+ {
+  "id": "correio-do-ribatejo",
+  "name": "Correio do Ribatejo",
+  "page": "https://www.correiodoribatejo.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "correio-dos-acores",
+  "name": "Correio dos Açores",
+  "page": "https://correiodosacores.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "diario-as-beiras",
+  "name": "Diário As Beiras",
+  "page": "https://www.asbeiras.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "redacao@asbeiras.pt",
+   "redaccao@asbeiras.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "diario-de-aveiro",
+  "name": "Diário de Aveiro",
+  "page": "https://www.diarioaveiro.pt/sobre/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "diario-de-coimbra",
+  "name": "Diário de Coimbra",
+  "page": "https://www.diariocoimbra.pt/sobre/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "diario-de-leiria",
+  "name": "Diário de Leiria",
+  "page": "https://www.diarioleiria.pt/sobre/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "diario-de-noticias-madeira",
+  "name": "Diário de Notícias (Madeira) / DNOTICIAS.PT",
+  "page": "https://www.dnoticias.pt/servicos/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "diario-de-noticias",
+  "name": "Diário de Notícias (DN)",
+  "page": "https://www.dn.pt/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "diario-de-tras-os-montes",
+  "name": "Diário de Trás-os-Montes",
+  "page": "https://www.diariodetrasosmontes.com/p/ficha-tecnica",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "diario-de-viseu",
+  "name": "Diário de Viseu",
+  "page": "https://www.diarioviseu.pt/sobre/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "diario-do-alentejo",
+  "name": "Diário do Alentejo",
+  "page": "https://diariodoalentejo.pt/pt/menu/1076/contactos.aspx",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "diario-do-distrito",
+  "name": "Diário do Distrito",
+  "page": "https://diariodistrito.sapo.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "diario-do-sul",
+  "name": "Diário do Sul",
+  "page": "https://diariodosul.pt/contacto/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "diario-dos-acores",
+  "name": "Diário dos Açores",
+  "page": "https://diariodosacores.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": null,
+  "status": "not read: The read operation timed out"
+ },
+ {
+  "id": "dinheiro-vivo",
+  "name": "Dinheiro Vivo",
+  "page": "https://www.dn.pt/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "eco",
+  "name": "ECO (eco.sapo.pt)",
+  "page": "https://eco.sapo.pt/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "estacao-diaria-edicao-jornal",
+  "name": "Estação Diária Edição Jornal",
+  "page": "https://estacaodiariajornal.sapo.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "executive-digest",
+  "name": "Executive Digest",
+  "page": "https://executivedigest.sapo.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "funchal-noticias",
+  "name": "Funchal Notícias",
+  "page": "https://funchalnoticias.net/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "redacao@funchalnoticias.net"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "futuro-da-guarda",
+  "name": "Futuro da Guarda",
+  "page": "https://futurodaguarda.pt/ficha-tecnica/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@futurodaguarda.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "gazeta-das-caldas",
+  "name": "Gazeta das Caldas",
+  "page": "https://gazetadascaldas.pt/homepage/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "gazeta-do-interior",
+  "name": "Gazeta do Interior",
+  "page": "https://www.gazetadointerior.pt/informacoes/contactos.aspx",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "global-news",
+  "name": "Global News",
+  "page": "https://globalnews.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "it-insight",
+  "name": "IT Insight",
+  "page": "https://www.itinsight.pt/forms/contactar",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "jornal-das-caldas",
+  "name": "Jornal das Caldas",
+  "page": "https://jornaldascaldas.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "jornal-de-leiria",
+  "name": "Jornal de Leiria",
+  "page": "https://jornaldeleiria.pt/contactos",
+  "read": "2026-11-26",
+  "mailbox": [
+   "redaccao@jornaldeleiria.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "jornal-de-negocios",
+  "name": "Jornal de Negócios",
+  "page": "https://www.jornaldenegocios.pt/institucional/detalhe/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "jornal-de-noticias",
+  "name": "Jornal de Notícias",
+  "page": "https://www.jn.pt/institucional/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "jornal-do-centro",
+  "name": "Jornal do Centro",
+  "page": "https://www.jornaldocentro.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "redacao@jornaldocentro.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "jornal-economico",
+  "name": "Jornal Económico",
+  "page": "https://jornaleconomico.pt/sobre-nos/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "jornal-nordeste",
+  "name": "Jornal Nordeste",
+  "page": "https://www.jornalnordeste.com/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "jornal-o-despertar",
+  "name": "Jornal O Despertar",
+  "page": "https://www.odespertar.pt/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "jornal-torrejano",
+  "name": "Jornal Torrejano",
+  "page": "https://jornaltorrejano.pt/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "jpn-jornalismoportonet",
+  "name": "JPN - JornalismoPortoNet",
+  "page": "https://www.jpn.up.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "lidador-noticias",
+  "name": "Lidador Notícias",
+  "page": "https://lidadornoticias.pt/ficha-tecnica/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "info@lidadornoticias.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "link-to-leaders",
+  "name": "Link to Leaders",
+  "page": "https://linktoleaders.com/contactos-link-to-leaders/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "lisboa-para-pessoas",
+  "name": "LPP - Lisboa Para Pessoas",
+  "page": "https://lisboaparapessoas.pt/sobre/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "lusa",
+  "name": "Lusa - Agência de Notícias de Portugal",
+  "page": "https://www.lusa.pt/contact-us",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "mais-ribatejo",
+  "name": "Mais Ribatejo",
+  "page": "https://maisribatejo.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@maisribatejo.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "medio-tejo",
+  "name": "Médio Tejo",
+  "page": "https://mediotejo.net/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "noticias-ao-minuto",
+  "name": "Notícias ao Minuto",
+  "page": "https://www.noticiasaominuto.com/contactos",
+  "read": "2026-11-26",
+  "mailbox": [
+   "info@noticiasaominuto.com",
+   "press@noticiasaominuto.com"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "noticias-da-covilha",
+  "name": "Notícias da Covilhã",
+  "page": "https://noticiasdacovilha.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@noticiasdacovilha.pt",
+   "redaccao@noticiasdacovilha.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "noticias-de-aveiro",
+  "name": "Notícias de Aveiro",
+  "page": "https://www.noticiasdeaveiro.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "noticias-de-coimbra",
+  "name": "Notícias de Coimbra (NDC)",
+  "page": "https://www.noticiasdecoimbra.pt/contactos-x/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "info@noticiasdecoimbra.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "noticias-de-viana",
+  "name": "Notícias de Viana",
+  "page": "https://noticiasdeviana.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@noticiasdeviana.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "noticias-de-vila-real",
+  "name": "Notícias de Vila Real",
+  "page": "https://noticiasdevilareal.sapo.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "o-interior",
+  "name": "O Interior",
+  "page": "https://www.ointerior.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "o-minho",
+  "name": "O MINHO",
+  "page": "https://ominho.pt/ficha-tecnica/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@ominho.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "o-mirante",
+  "name": "O Mirante",
+  "page": "https://omirante.pt/contatos",
+  "read": "2026-11-26",
+  "mailbox": [
+   "redaccao@omirante.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "o-setubalense",
+  "name": "O Setubalense",
+  "page": "https://osetubalense.com/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "observador",
+  "name": "Observador",
+  "page": "https://observador.pt/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "pcguia",
+  "name": "PCGuia",
+  "page": "https://www.pcguia.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "postal-do-algarve",
+  "name": "Postal do Algarve",
+  "page": "https://postal.pt/postal/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "pplware",
+  "name": "Pplware",
+  "page": "https://pplware.sapo.pt/contacto/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "pressnet",
+  "name": "Pressnet",
+  "page": "https://www.pressnet.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@pressnet.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "pt-jornal",
+  "name": "PT Jornal",
+  "page": "https://ptjornal.com/contactos",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@ptjornal.com"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "publico",
+  "name": "PÚBLICO",
+  "page": "https://www.publico.pt/nos/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-afifense",
+  "name": "Rádio Afifense",
+  "page": "https://radioafifense.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-altitude",
+  "name": "Rádio Altitude",
+  "page": "https://www.altitude.fm/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-alto-minho",
+  "name": "Rádio Alto Minho",
+  "page": "https://radioaltominho.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-atlantida",
+  "name": "Rádio Atlântida",
+  "page": "https://www.radioatlantida.net/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-azul",
+  "name": "Rádio Azul",
+  "page": "https://www.radioazul.pt/sobre/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@radioazul.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "radio-brigantia",
+  "name": "Rádio Brigantia",
+  "page": "https://www.brigantia.pt/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-cidade-fm-aveiro",
+  "name": "Cidade FM Aveiro",
+  "page": "https://cidade.fm/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-cidade-fm-lisboa",
+  "name": "Cidade FM Lisboa",
+  "page": "https://cidade.fm/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-cidade-fm-viseu",
+  "name": "Cidade FM Viseu",
+  "page": "https://cidade.fm/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-cm-90-4",
+  "name": "CM Rádio 90.4",
+  "page": "https://www.cmjornal.pt/cmr/institucional/detalhe/cmr-ficha-tecnica",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@cmjornal.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "radio-cm-94-8",
+  "name": "CM Rádio 94.8",
+  "page": "https://www.cmjornal.pt/cmr/institucional/detalhe/cmr-ficha-tecnica",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@cmjornal.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "radio-condestavel",
+  "name": "Rádio Condestável",
+  "page": "https://www.radiocondestavel.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@radiocondestavel.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "radio-estacao-madeira-tsf-madeira",
+  "name": "Estação Rádio Madeira - TSF Madeira",
+  "page": "https://www.tsfmadeira.pt/#contactos",
+  "read": "2026-11-26",
+  "mailbox": [
+   "info@tsfmadeira.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "radio-fronteira",
+  "name": "Rádio Fronteira",
+  "page": "https://radiofronteira.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-geice",
+  "name": "Rádio Geice",
+  "page": "https://radiogeice.com/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@radiogeice.com"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "radio-hertz",
+  "name": "Rádio Hertz",
+  "page": "https://radiohertz.pt/contactos-2/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-jornal-do-centro",
+  "name": "Rádio Jornal do Centro",
+  "page": "https://www.radiojornaldocentro.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": null,
+  "status": "not read: The read operation timed out"
+ },
+ {
+  "id": "radio-m80-aveiro",
+  "name": "M80 Aveiro",
+  "page": "https://m80.pt/feedback",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-m80-braganca",
+  "name": "M80 Bragança",
+  "page": "https://m80.pt/feedback",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-m80-coimbra",
+  "name": "M80 Coimbra",
+  "page": "https://m80.pt/feedback",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-m80-leiria",
+  "name": "M80 Leiria",
+  "page": "https://m80.pt/feedback",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-m80-porto",
+  "name": "M80 Porto",
+  "page": "https://m80.pt/feedback",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-m80-vila-real",
+  "name": "M80 Vila Real",
+  "page": "https://m80.pt/feedback",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-mega-hits-aveiro",
+  "name": "Mega Hits Aveiro",
+  "page": "https://megahits.fm/sobre-nos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-mega-hits-braga",
+  "name": "Mega Hits Braga",
+  "page": "https://megahits.fm/sobre-nos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-mega-hits-coimbra",
+  "name": "Mega Hits - Coimbra",
+  "page": "https://megahits.fm/sobre-nos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-mega-hits-viseu",
+  "name": "Mega Hits Viseu",
+  "page": "https://megahits.fm/sobre-nos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-mega-hits",
+  "name": "Mega Hits",
+  "page": "https://megahits.fm/sobre-nos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-observador-leiria",
+  "name": "Rádio Observador Leiria",
+  "page": "https://observador.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-pax",
+  "name": "Rádio Pax",
+  "page": "https://www.radiopax.com/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "radio-portalegre",
+  "name": "Rádio Portalegre",
+  "page": "https://radioportalegre.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@radioportalegre.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "radio-rci",
+  "name": "RCI",
+  "page": "https://rci.pt/Contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "info@rci.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "radio-record-leiria",
+  "name": "Record Leiria",
+  "page": "https://www.recordfm.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": null,
+  "status": "not read: HTTP Error 404: Not Found"
+ },
+ {
+  "id": "radio-record-santarem",
+  "name": "Record Santarém",
+  "page": "https://www.recordfm.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": null,
+  "status": "not read: HTTP Error 404: Not Found"
+ },
+ {
+  "id": "regiao-de-leiria",
+  "name": "Região de Leiria",
+  "page": "https://www.regiaodeleiria.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "redacao@regiaodeleiria.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "revela-arrabida",
+  "name": "Revela Arrábida",
+  "page": "https://revelaarrabida.pt/ficha-tecnica/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@revelaarrabida.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "rua-direita",
+  "name": "Rua Direita",
+  "page": "https://www.ruadireita.pt/contactos",
+  "read": "2026-11-26",
+  "mailbox": [
+   "redaccao@ruadireita.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "ruc-radio-universidade-de-coimbra",
+  "name": "RUC - Rádio Universidade de Coimbra",
+  "page": "https://www.ruc.pt/contactos",
+  "read": "2026-11-26",
+  "mailbox": [
+   "info@ruc.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "rum-radio-universitaria-do-minho",
+  "name": "RUM - Rádio Universitária do Minho",
+  "page": "https://www.rum.pt/sobre-nos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "sabado",
+  "name": "SÁBADO",
+  "page": "https://www.sabado.pt/a-sabado/detalhe/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "semmais",
+  "name": "Semmais (S+)",
+  "page": "https://semmais.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "setubal-mais",
+  "name": "Setúbal Mais",
+  "page": "https://setubalmais.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "shifter",
+  "name": "Shifter",
+  "page": "https://shifter.pt/sobre/",
+  "read": "2026-11-26",
+  "mailbox": null,
+  "status": "not read: <urlopen error [Errno 104] Connection reset by peer>"
+ },
+ {
+  "id": "tb-todas-as-beiras",
+  "name": "TB - Todas As Beiras",
+  "page": "https://todasasbeiras.pt/ficha-tecnica/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@todasasbeiras.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "tds-televisao-do-sul",
+  "name": "TDS (Televisão do Sul)",
+  "page": "https://televisaodosul.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "info@televisaodosul.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "tek-sapo",
+  "name": "SAPO TEK",
+  "page": "https://tek.sapo.pt/ficha-tecnica/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "the-portugal-news",
+  "name": "The Portugal News",
+  "page": "https://www.theportugalnews.com/contacts",
+  "read": "2026-11-26",
+  "mailbox": [
+   "info@theportugalnews.com"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "time-out-lisboa",
+  "name": "Time Out Lisboa",
+  "page": "https://www.timeout.pt/lisboa/pt/coisas-para-fazer/ficha-tecnica-e-contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "tribuna-alentejo",
+  "name": "Tribuna Alentejo",
+  "page": "https://www.tribunaalentejo.pt/contacto/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "tsf",
+  "name": "TSF Rádio Notícias",
+  "page": "https://www.tsf.pt/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "tugatech",
+  "name": "TugaTech",
+  "page": "https://tugatech.com.pt/h42-sobre-nos",
+  "read": "2026-11-26",
+  "mailbox": null,
+  "status": "not read: HTTP Error 403: Forbidden"
+ },
+ {
+  "id": "universidade-fm",
+  "name": "Universidade FM",
+  "page": "https://www.universidade.fm/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@universidade.fm"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "via-rapida",
+  "name": "Via Rápida",
+  "page": "https://www.jornalviarapida.com/contacto",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@jornalviarapida.com"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "viana-ao-minuto",
+  "name": "Viana ao Minuto",
+  "page": "https://vianaaominuto.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@vianaaominuto.pt",
+   "redacao@vianaaominuto.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "viana-tv",
+  "name": "Viana TV",
+  "page": "https://vianatv.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@vianatv.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "viseu-now",
+  "name": "Viseu Now",
+  "page": "https://viseunow.pt/sobre-nos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "info@viseunow.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "zap",
+  "name": "ZAP",
+  "page": "https://zap.aeiou.pt/ficha-tecnica",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ }
+]

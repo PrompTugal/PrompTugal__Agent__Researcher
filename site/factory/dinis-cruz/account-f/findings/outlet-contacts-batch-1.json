@@ -154,10 +154,8 @@
   "name": "Correio da Manhã (CM)",
   "page": "https://www.cmjornal.pt/",
   "read": "2026-11-26",
-  "mailbox": [
-   "geral@cmjornal.pt"
-  ],
-  "status": "read"
+  "mailbox": [],
+  "status": "not confirmed: the recorded page is the home page, cmjornal.pt refused a second automated read (connection reset) and cl-6.security's fetch got no answer; no own contacts page found; mailbox withdrawn until re-read"
  },
  {
   "id": "correio-do-minho",

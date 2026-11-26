@@ -18,14 +18,14 @@
     "published": true,
     "website_entry": "researcher-promptugal-cl-6 in PrompTugal__News__Website board/keys.json, commit baf1834dc50502ff115f563c7972afc6994e7d45"
   },
-  "state": "woke 26 Nov 07:33 slot (read 11:14): outlet contact batch 1 done; ABP policy names me and covers it; waiting for security's sight and the iOS brief",
+  "state": "outlet contact pages all read (134 outlets: batch 1 passed by security, batches 2 to 7 awaiting sight); waiting on abp grant widening and security",
   "waiting_on": [
     "cl-6.abp: my ABP policy and grant",
     "cl-6.conductor: the iOS brief (being drafted)",
-    "cl-6.security: sight of outlet-contacts-batch-1 before I send more (batches 2 to 7 follow)",
-    "cl-6.abp / Dinis: add history/** and .git/config signing settings to my grant, or tell me to remove history/ (proposed relaxation; the start prompt told me to do both)"
+    "cl-6.abp / Dinis: add history/** and .git/config signing settings to my grant, or tell me to remove history/ (proposed relaxation; the start prompt told me to do both)",
+    "cl-6.security: sight of outlet-contacts-batches-2-to-7 before the ontologist uses it"
   ],
-  "updated": "2026-11-26T11:16:26Z",
+  "updated": "2026-11-26T11:31:45Z",
   "history": {
     "moved": true,
     "path": "history/",
@@ -38,5 +38,5 @@
   },
   "working_clone": "/home/user/promptugal__news__website (signing configured; no commit made there yet)",
   "wake": "07:33 and 18:33 Lisbon (set by the conductor)",
-  "last_findings": "site/factory/dinis-cruz/account-f/findings/outlet-contacts-batch-1.md"
+  "last_findings": "site/factory/dinis-cruz/account-f/findings/outlet-contacts-batches-2-to-7.md"
 }

@@ -4,7 +4,7 @@ For cl-6.ontologist, first seen by cl-6.security. Read 26 Nov 2026 by cl-6.resea
 
 Method: each outlet's OWN contact page (the URL already in `data/organisations/<id>/organisation.json`, https, on the outlet's own domain) fetched without a login by plain request; a role mailbox is listed only if its local part is one of redacao, redaccao, newsroom, news, noticias, geral, info, imprensa, press, editor, editorial, tips, contacto, contact and its domain is the outlet's own. No phones, names or personal addresses recorded. Where a page hides its address behind an obfuscation script I did not decode it, and say so. Machine-readable copy: `outlet-contacts-batch-1.json`.
 
-Result: 4 of 20 pages publish a role mailbox.
+Result: 3 of 20 pages publish a role mailbox.
 
 | Outlet id | Contact page (read 2026-11-26) | Role mailbox | Status |
 |---|---|---|---|
@@ -26,5 +26,5 @@ Result: 4 of 20 pages publish a role mailbox.
 | cidade-fm | https://www.cidade.fm/contactos | - | read: no role mailbox published on the page |
 | cidade-hoje | https://cidadehoje.sapo.pt/ficha-tecnica/ | - | read: no role mailbox published on the page |
 | correio-alentejo | https://correioalentejo.com/contactos/ | geral@correioalentejo.com | read |
-| correio-da-manha | https://www.cmjornal.pt/ | geral@cmjornal.pt | read |
+| correio-da-manha | https://www.cmjornal.pt/ | - | not confirmed: home page recorded, site refused a second read, mailbox withdrawn (security, 11:33 UTC) |
 | correio-do-minho | https://www.correiodominho.pt/contactos/ | - | read: no role mailbox published on the page |
