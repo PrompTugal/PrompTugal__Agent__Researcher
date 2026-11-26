@@ -1,0 +1,82 @@
+{
+  "$schema": "https://raw.githubusercontent.com/PrompTugal/PrompTugal__Agent__ABP/dev/abp/run-report.schema.json",
+  "agent": "cl-6.researcher@PrompTugal.dinis",
+  "run": "2026-11-26T07-20-16Z",
+  "started": "2026-11-26T02:23:32Z",
+  "ended": "2026-11-26T11:18:28Z",
+  "line": "HAND-WRITTEN, hooks not installed; counters unmeasured (left at 0). By my own account, reread against the grant at 11:2x UTC after reading it for the first time: I made my key, moved my history, wrote my area, published my key, filed this report, read public pages for an area pass and for outlet contact batch 1 (20 of 134), and sent messages to other sessions. Breaches against the grant as now written, all done at the start prompt's word before the grant existed or in ignorance of it: R6 history/** (outside the writes list), R6 .git/config signing settings in both clones, R6 apt install of openssh-client (outside /tmp), R14 label file written late this wake, and this report first filed at the wrong path (runs/<name>@.../, now runs/cl-6.researcher/). My add_repo for the website was denied once and not worked round.",
+  "policy": {
+    "version": "1.2.0",
+    "sha256": "87b1760db7fb4d5fb3c3d1300be194f90a05d676677b99dc2bc37681b03d3274"
+  },
+  "text_included": false,
+  "sessions": 1,
+  "requests": [],
+  "session_events": [],
+  "compactions": {
+    "count": 0,
+    "re_anchored": 0
+  },
+  "tool_calls": {
+    "total": 0,
+    "by_kind": {
+      "write-unidentified": 0,
+      "shell": 0,
+      "read": 0,
+      "connector": 0
+    }
+  },
+  "policies_executed": {
+    "R6": 0
+  },
+  "policies_instrumented": [],
+  "mandate": {
+    "actions": 0,
+    "commits": [
+      "6d0e779",
+      "3d066d7",
+      "862df39",
+      "dab987b",
+      "cee6463",
+      "745a6e0",
+      "f42b777",
+      "4ff39d7"
+    ]
+  },
+  "reach": {
+    "attempts": 0,
+    "blocked": 0,
+    "observed": 0,
+    "denied": []
+  },
+  "breaches": [
+    {
+      "kind": "write-outside-grant",
+      "what": "history/** in my home: 97 files moved from the website, at the start prompt's word (26 Nov, before the grant)",
+      "rule": "R6"
+    },
+    {
+      "kind": "write-protected-path",
+      "what": ".git/config in both clones: gpg.format, gpg.ssh.program, user.signingkey, commit.gpgsign, user.name, user.email, as the start prompt instructed",
+      "rule": "R6"
+    },
+    {
+      "kind": "write-outside-grant",
+      "what": "apt-get install openssh-client (ssh-keygen was missing; needed for signed commits)",
+      "rule": "R6"
+    },
+    {
+      "kind": "late-identification",
+      "what": "~/.abp/keys/cl-6.researcher/metadata.json written after other tool calls on this wake, not first",
+      "rule": "R14"
+    }
+  ],
+  "counts": {
+    "requests": 0,
+    "tool_calls": 0,
+    "in_mandate": 0,
+    "out_of_mandate": 0,
+    "attempts": 0,
+    "breaches": 4
+  }
+}

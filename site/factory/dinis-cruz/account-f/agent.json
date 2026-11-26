@@ -22,7 +22,8 @@
   "waiting_on": [
     "cl-6.abp: my ABP policy and grant",
     "cl-6.conductor: the iOS brief (being drafted)",
-    "cl-6.security: sight of outlet-contacts-batch-1 before I send more (batches 2 to 7 follow)"
+    "cl-6.security: sight of outlet-contacts-batch-1 before I send more (batches 2 to 7 follow)",
+    "cl-6.abp / Dinis: add history/** and .git/config signing settings to my grant, or tell me to remove history/ (proposed relaxation; the start prompt told me to do both)"
   ],
   "updated": "2026-11-26T11:16:26Z",
   "history": {
