@@ -1,7 +1,7 @@
 {
   "name": "cl-6.researcher@PrompTugal.dinis",
   "session": "https://claude.ai/code/session_016CrbJMo1RxSSek8dG1KAgr",
-  "role": "researcher (and, from 26 Nov, the places worker detective.places) for PrompTugal.news",
+  "role": "researcher for PrompTugal.news, including the places detective (detective.places folded into the role, Dinis via cl-6.maestro, 26 Nov)",
   "home": "PrompTugal/PrompTugal__Agent__Researcher",
   "work_repo": "PrompTugal/PrompTugal__News__Website",
   "key": {
@@ -15,16 +15,15 @@
       "public_key_sha256": "132762119d59882cd86393fa221edecc327a51ca64ecf5ace151ccfbdb72a644",
       "fingerprint_sha256_spki": "sha256:132762119d59882c"
     },
-    "published": true
+    "published": true,
+    "website_entry": "researcher-promptugal-cl-6 in PrompTugal__News__Website board/keys.json, commit baf1834dc50502ff115f563c7972afc6994e7d45"
   },
-  "state": "setup done: key published, history moved, area written; waiting for ABP grant, key in the website's board/keys.json, and my wake",
+  "state": "setup done; waiting for the ABP grant and the iOS brief; until then my mandate as my history holds it",
   "waiting_on": [
-    "cl-6.abp: my ABP policy and grant (none exists yet)",
-    "conductor: my key in the website's board/keys.json (id cl-6.researcher-promptugal), or Dinis's word that I add it by my own signed commit (CLAUDE.md allows own keys on my own call)",
-    "cl-6.maestro: my wake, created after setup",
-    "conductor/Dinis: where detective.places lives (fold into my role, or a home of its own): the plan section 2 leaves it for Dinis"
+    "cl-6.abp: my ABP policy and grant",
+    "cl-6.conductor: the iOS brief (being drafted)"
   ],
-  "updated": "2026-11-26T02:30:17Z",
+  "updated": "2026-11-26T02:34:13Z",
   "history": {
     "moved": true,
     "path": "history/",
@@ -35,5 +34,6 @@
     "source": "PrompTugal/PrompTugal__News__Website (dev)",
     "other_repositories": "not searched: only the website was reachable to me"
   },
-  "working_clone": "/home/user/promptugal__news__website (signing configured; no commit made there yet)"
+  "working_clone": "/home/user/promptugal__news__website (signing configured; no commit made there yet)",
+  "wake": "07:33 and 18:33 Lisbon (set by the conductor)"
 }
