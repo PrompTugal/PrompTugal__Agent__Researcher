@@ -5,15 +5,22 @@
   "home": "PrompTugal/PrompTugal__Agent__Researcher",
   "work_repo": "PrompTugal/PrompTugal__News__Website",
   "key": {
-    "signing": {"alg": "ECDSA P-256", "fingerprint": "SHA256:rYxzbD8bg4n2obyg0aniFtX5XCMasFrrq0SWkZ24lw0"},
-    "encryption": {"alg": "RSA-4096", "public_key_sha256": "132762119d59882cd86393fa221edecc327a51ca64ecf5ace151ccfbdb72a644"},
-    "published": false
+    "signing": {
+      "alg": "ECDSA P-256",
+      "fingerprint": "SHA256:rYxzbD8bg4n2obyg0aniFtX5XCMasFrrq0SWkZ24lw0",
+      "fingerprint_sha256_spki": "sha256:f9c180a7dc6e7c0a"
+    },
+    "encryption": {
+      "alg": "RSA-4096",
+      "public_key_sha256": "132762119d59882cd86393fa221edecc327a51ca64ecf5ace151ccfbdb72a644",
+      "fingerprint_sha256_spki": "sha256:132762119d59882c"
+    },
+    "published": true
   },
-  "state": "setup: key made, area written; history move blocked",
+  "state": "setup: key published, area written; history move blocked on website attach",
   "waiting_on": [
-    "Dinis or conductor: permission to attach PrompTugal/PrompTugal__News__Website (add_repo with push was denied by the auto-mode classifier)",
-    "Shape of site/keys/f.maestro.json (SovereignWebsite/Site__Agent__Maestro is outside my GitHub scope), so I can publish site/keys/cl-6.researcher.json without guessing",
-    "ABP grant, my key in the website's board/keys.json, my wake (created after setup, not by me)"
+    "Dinis: line to attach PrompTugal/PrompTugal__News__Website (conductor has the list)",
+    "conductor: ABP grant, my key in the website's board/keys.json, my wake"
   ],
-  "updated": "2026-11-26T02:24:17Z"
+  "updated": "2026-11-26T02:25:02Z"
 }
