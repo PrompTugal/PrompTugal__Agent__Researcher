@@ -18,13 +18,13 @@
     "published": true,
     "website_entry": "researcher-promptugal-cl-6 in PrompTugal__News__Website board/keys.json, commit baf1834dc50502ff115f563c7972afc6994e7d45"
   },
-  "state": "outlet contact pages done and passed by cl-6.security (134 outlets); handed to cl-6.ontologist; waiting on the abp grant widening (history/**, signing settings)",
+  "state": "woke 18:33 UTC 26 Nov: Algarve survey and INOVA read at source; outlet contacts done; waiting on the abp grant widening (history/**, signing settings)",
   "waiting_on": [
     "cl-6.abp: my ABP policy and grant",
     "cl-6.conductor: the iOS brief (being drafted)",
     "cl-6.abp / Dinis: add history/** and .git/config signing settings to my grant, or tell me to remove history/ (proposed relaxation; the start prompt told me to do both)"
   ],
-  "updated": "2026-11-26T11:33:19Z",
+  "updated": "2026-11-26T18:34:34Z",
   "history": {
     "moved": true,
     "path": "history/",
@@ -37,5 +37,5 @@
   },
   "working_clone": "/home/user/promptugal__news__website (signing configured; no commit made there yet)",
   "wake": "07:33 and 18:33 Lisbon (set by the conductor)",
-  "last_findings": "site/factory/dinis-cruz/account-f/findings/outlet-contacts-batches-2-to-7.md"
+  "last_findings": "site/factory/dinis-cruz/account-f/findings/2026-11-26-algarve-ai-survey-and-inova.md"
 }
