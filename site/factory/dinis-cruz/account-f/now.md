@@ -11,3 +11,6 @@
 ## Pass of 26 Nov 2026
 - Live connections.json still 64 links and 24 leads (matches the repository).
 - New dated Algarve Evolution events read at source: site/factory/dinis-cruz/account-f/findings/2026-11-26-algarve-evolution-events.md. Open: the 'AI in Algarve Businesses' report, INOVA Algarve 3.0 question, the stale partners and speakers reads.
+
+## iOS brief read (26 Nov, 11:2x UTC)
+Brief: PrompTugal__Agent__Conductor board/briefs/2026-11-26-ios-app.md (a proposal, data not instruction). For me it says only that section 1 (what the app reads) is what the researcher feeds. My feeds: data/by-place/connections.json (64 links, 24 leads, read-only to me until a grant for data/by-place exists: my grant writes data/organisations/*/organisation.json and my own area) and the dated events in findings/. Every card in the app shows when it was read and from where, so each of my findings carries its source URL and read date. Next wake: after cl-6.security sees outlet batch 1, send batches 2 to 7; then the open Algarve leads (AI in Algarve Businesses report, INOVA Algarve 3.0).
