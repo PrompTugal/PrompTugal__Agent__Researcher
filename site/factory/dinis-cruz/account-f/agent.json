@@ -17,10 +17,23 @@
     },
     "published": true
   },
-  "state": "setup: key published, area written; history move blocked on website attach",
+  "state": "setup done: key published, history moved, area written; waiting for ABP grant, key in the website's board/keys.json, and my wake",
   "waiting_on": [
-    "Dinis: line to attach PrompTugal/PrompTugal__News__Website (conductor has the list)",
-    "conductor: ABP grant, my key in the website's board/keys.json, my wake"
+    "cl-6.abp: my ABP policy and grant (none exists yet)",
+    "conductor: my key in the website's board/keys.json (id cl-6.researcher-promptugal), or Dinis's word that I add it by my own signed commit (CLAUDE.md allows own keys on my own call)",
+    "cl-6.maestro: my wake, created after setup",
+    "conductor/Dinis: where detective.places lives (fold into my role, or a home of its own): the plan section 2 leaves it for Dinis"
   ],
-  "updated": "2026-11-26T02:25:02Z"
+  "updated": "2026-11-26T02:30:17Z",
+  "history": {
+    "moved": true,
+    "path": "history/",
+    "provenance": "history/PROVENANCE.md",
+    "git_log": "history/git-log.md",
+    "files": 97,
+    "commits": 203,
+    "source": "PrompTugal/PrompTugal__News__Website (dev)",
+    "other_repositories": "not searched: only the website was reachable to me"
+  },
+  "working_clone": "/home/user/promptugal__news__website (signing configured; no commit made there yet)"
 }
