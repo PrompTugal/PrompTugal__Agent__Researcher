@@ -111,7 +111,7 @@
   "name": "Diário dos Açores",
   "page": "https://diariodosacores.pt/contactos/",
   "read": "2026-11-26",
-  "mailbox": null,
+  "mailbox": [],
   "status": "not read: The read operation timed out"
  },
  {
@@ -633,7 +633,7 @@
   "name": "Rádio Jornal do Centro",
   "page": "https://www.radiojornaldocentro.pt/contactos/",
   "read": "2026-11-26",
-  "mailbox": null,
+  "mailbox": [],
   "status": "not read: The read operation timed out"
  },
  {
@@ -765,7 +765,7 @@
   "name": "Record Leiria",
   "page": "https://www.recordfm.pt/contactos/",
   "read": "2026-11-26",
-  "mailbox": null,
+  "mailbox": [],
   "status": "not read: HTTP Error 404: Not Found"
  },
  {
@@ -773,7 +773,7 @@
   "name": "Record Santarém",
   "page": "https://www.recordfm.pt/contactos/",
   "read": "2026-11-26",
-  "mailbox": null,
+  "mailbox": [],
   "status": "not read: HTTP Error 404: Not Found"
  },
  {
@@ -853,7 +853,7 @@
   "name": "Shifter",
   "page": "https://shifter.pt/sobre/",
   "read": "2026-11-26",
-  "mailbox": null,
+  "mailbox": [],
   "status": "not read: <urlopen error [Errno 104] Connection reset by peer>"
  },
  {
@@ -923,7 +923,7 @@
   "name": "TugaTech",
   "page": "https://tugatech.com.pt/h42-sobre-nos",
   "read": "2026-11-26",
-  "mailbox": null,
+  "mailbox": [],
   "status": "not read: HTTP Error 403: Forbidden"
  },
  {
