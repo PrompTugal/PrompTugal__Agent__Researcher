@@ -18,14 +18,13 @@
     "published": true,
     "website_entry": "researcher-promptugal-cl-6 in PrompTugal__News__Website board/keys.json, commit baf1834dc50502ff115f563c7972afc6994e7d45"
   },
-  "state": "outlet contact pages all read (134 outlets: batch 1 passed by security, batches 2 to 7 awaiting sight); waiting on abp grant widening and security",
+  "state": "outlet contact pages done and passed by cl-6.security (134 outlets); handed to cl-6.ontologist; waiting on the abp grant widening (history/**, signing settings)",
   "waiting_on": [
     "cl-6.abp: my ABP policy and grant",
     "cl-6.conductor: the iOS brief (being drafted)",
-    "cl-6.abp / Dinis: add history/** and .git/config signing settings to my grant, or tell me to remove history/ (proposed relaxation; the start prompt told me to do both)",
-    "cl-6.security: sight of outlet-contacts-batches-2-to-7 before the ontologist uses it"
+    "cl-6.abp / Dinis: add history/** and .git/config signing settings to my grant, or tell me to remove history/ (proposed relaxation; the start prompt told me to do both)"
   ],
-  "updated": "2026-11-26T11:31:57Z",
+  "updated": "2026-11-26T11:33:19Z",
   "history": {
     "moved": true,
     "path": "history/",
