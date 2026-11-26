@@ -18,13 +18,13 @@
     "published": true,
     "website_entry": "researcher-promptugal-cl-6 in PrompTugal__News__Website board/keys.json, commit baf1834dc50502ff115f563c7972afc6994e7d45"
   },
-  "state": "area refreshed 26 Nov; waiting for the ABP grant and the iOS brief",
+  "state": "woke 26 Nov 07:33 slot (read 11:14): outlet contact batch 1 done; ABP policy names me and covers it; waiting for security's sight and the iOS brief",
   "waiting_on": [
     "cl-6.abp: my ABP policy and grant",
     "cl-6.conductor: the iOS brief (being drafted)",
-    "Dinis's word (via cl-6.conductor, who has put it on his list): outlet contact-page batch for cl-6.ontologist (role mailboxes from each outlet's own public contact page, 135 outlets, first 20 to cl-6.security). Held: routed by the conductor, Dinis has not spoken on it, and my brief says only Dinis instructs me."
+    "cl-6.security: sight of outlet-contacts-batch-1 before I send more (batches 2 to 7 follow)"
   ],
-  "updated": "2026-11-26T06:20:14Z",
+  "updated": "2026-11-26T11:16:26Z",
   "history": {
     "moved": true,
     "path": "history/",
@@ -37,5 +37,5 @@
   },
   "working_clone": "/home/user/promptugal__news__website (signing configured; no commit made there yet)",
   "wake": "07:33 and 18:33 Lisbon (set by the conductor)",
-  "last_findings": "site/factory/dinis-cruz/account-f/findings/2026-11-26-algarve-evolution-events.md"
+  "last_findings": "site/factory/dinis-cruz/account-f/findings/outlet-contacts-batch-1.md"
 }

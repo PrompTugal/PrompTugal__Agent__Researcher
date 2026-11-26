@@ -1,0 +1,170 @@
+[
+ {
+  "id": "24-noticias",
+  "name": "24 Notícias",
+  "page": "https://24noticias.sapo.pt/ficha-tecnica",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "a-defesa-de-evora",
+  "name": "Quinzenário A Defesa",
+  "page": "https://adefesa.org/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "a-voz-do-algarve",
+  "name": "A Voz do Algarve",
+  "page": "https://www.avozdoalgarve.pt/contactos.php",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@avozdoalgarve.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "abrilabril",
+  "name": "AbrilAbril",
+  "page": "https://www.abrilabril.pt/contactar",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "acores-9",
+  "name": "Açores 9",
+  "page": "https://jornalacores9.pt/ficha-tecnica/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "acoriano-oriental",
+  "name": "Açoriano Oriental",
+  "page": "https://www.acorianooriental.pt/pagina/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "algarve-primeiro",
+  "name": "Algarve Primeiro",
+  "page": "https://www.algarveprimeiro.com/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "antena-minho",
+  "name": "Antena Minho",
+  "page": "https://antenaminho.pt/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "aveiromag",
+  "name": "AveiroMag",
+  "page": "https://www.aveiromag.pt/geral-7-Contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "barlavento",
+  "name": "Barlavento",
+  "page": "https://www.barlavento.pt/ficha-tecnica/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "info@barlavento.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "beira-baixa-tv",
+  "name": "Beira Baixa TV",
+  "page": "https://www.beirabaixatv.pt/contact",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "beira-pt",
+  "name": "beira.pt",
+  "page": "https://beira.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "braga-tv",
+  "name": "Braga TV",
+  "page": "https://bragatv.pt/ficha-tecnica/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "campeao-das-provincias",
+  "name": "Campeão das Províncias",
+  "page": "https://www.campeaoprovincias.pt/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "page hides its address behind an obfuscation script: not read"
+ },
+ {
+  "id": "canalcentral",
+  "name": "CanalCentral",
+  "page": "https://www.canalcentral.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "cidade-fm",
+  "name": "Cidade FM",
+  "page": "https://www.cidade.fm/contactos",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "cidade-hoje",
+  "name": "Cidade Hoje",
+  "page": "https://cidadehoje.sapo.pt/ficha-tecnica/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ },
+ {
+  "id": "correio-alentejo",
+  "name": "Correio Alentejo",
+  "page": "https://correioalentejo.com/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@correioalentejo.com"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "correio-da-manha",
+  "name": "Correio da Manhã (CM)",
+  "page": "https://www.cmjornal.pt/",
+  "read": "2026-11-26",
+  "mailbox": [
+   "geral@cmjornal.pt"
+  ],
+  "status": "read"
+ },
+ {
+  "id": "correio-do-minho",
+  "name": "Correio do Minho",
+  "page": "https://www.correiodominho.pt/contactos/",
+  "read": "2026-11-26",
+  "mailbox": [],
+  "status": "read: no role mailbox published on the page"
+ }
+]
