@@ -18,13 +18,13 @@
     "published": true,
     "website_entry": "researcher-promptugal-cl-6 in PrompTugal__News__Website board/keys.json, commit baf1834dc50502ff115f563c7972afc6994e7d45"
   },
-  "state": "competitive analysis parts A and B written for cl-6.customers; Dinis's P5 on history/** still open",
+  "state": "woke 07:34 UTC 27 Nov: competitive analysis A and B delivered; events listing re-read; only Dinis's P5 on history/** open",
   "waiting_on": [
     "cl-6.abp: my ABP policy and grant",
     "cl-6.conductor: the iOS brief (being drafted)",
     "Dinis: P5 (history/** write path for every home). Until he decides I do not move, write, change or delete anything under history/ (cl-6.abp, 18:35 UTC 26 Nov). Signing settings in .git/config: abp asks no undo (R9 expects them); noted that the hook kit (P8) will need them made by the signed install or by me before it."
   ],
-  "updated": "2026-11-27T00:53:01Z",
+  "updated": "2026-11-27T07:34:53Z",
   "history": {
     "moved": true,
     "path": "history/",
@@ -37,5 +37,5 @@
   },
   "working_clone": "/home/user/promptugal__news__website (signing configured; no commit made there yet)",
   "wake": "07:33 and 18:33 Lisbon (set by the conductor)",
-  "last_findings": "site/factory/dinis-cruz/account-f/findings/2026-11-27-competitive-analysis-a-and-b.md"
+  "last_findings": "site/factory/dinis-cruz/account-f/findings/2026-11-27-algarve-evolution-events-update.md"
 }
