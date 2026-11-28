@@ -18,13 +18,13 @@
     "published": true,
     "website_entry": "researcher-promptugal-cl-6 in PrompTugal__News__Website board/keys.json, commit baf1834dc50502ff115f563c7972afc6994e7d45"
   },
-  "state": "woke 18:33 UTC 27 Nov: events listing re-read (one new event); only Dinis's P5 on history/** open",
+  "state": "woke 07:33 UTC 28 Nov: no new events; nothing handed on; only Dinis's P5 on history/** open",
   "waiting_on": [
     "cl-6.abp: my ABP policy and grant",
     "cl-6.conductor: the iOS brief (being drafted)",
     "Dinis: P5 (history/** write path for every home). Until he decides I do not move, write, change or delete anything under history/ (cl-6.abp, 18:35 UTC 26 Nov). Signing settings in .git/config: abp asks no undo (R9 expects them); noted that the hook kit (P8) will need them made by the signed install or by me before it."
   ],
-  "updated": "2026-11-27T18:33:42Z",
+  "updated": "2026-11-28T07:34:05Z",
   "history": {
     "moved": true,
     "path": "history/",
